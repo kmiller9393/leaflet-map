@@ -1,6 +1,6 @@
 # leaflet-map
 
-This project is a mapping application built with leaflet, node.js/express and mongodb.
+This application displays a map of the user's location and is built with leaflet, node.js/express and mongodb.
 
 ### Starting the application:
 
