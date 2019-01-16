@@ -10,4 +10,6 @@ This project is a mapping application built with leaflet, node.js/express and mo
 
 3. run `npm run dev` to start the server && `npm start` to start the frontend.
 
+## Overview:
+
 <img src="frontend/assets/images/leaflet-map.png" alt="map"/>
