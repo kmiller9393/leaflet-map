@@ -1,6 +1,6 @@
 # leaflet-map
 
-This application displays a map and a location pin that shows the user's location. This application is built with Leaflet, Node.js/Express and mongoDB.
+This application displays a map and a pin that shows the user's location. This application is built with Leaflet, Node.js/Express and mongoDB.
 
 ### Starting the application:
 
